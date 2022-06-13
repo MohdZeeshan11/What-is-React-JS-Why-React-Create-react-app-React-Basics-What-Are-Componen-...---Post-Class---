@@ -1,9 +1,9 @@
-import React from 'react';
-import '../styles/App.css';
-import Welcome from './Welcome';
+import React from "react";
+import "../styles/App.css";
+import Welcome from "./Welcome";
 
 const App = () => {
-  return <Welcome name="Mohd Zeeshan"/>;
+  return <Welcome name="Mohd Zeeshan" />;
 };
 
 export default App;
